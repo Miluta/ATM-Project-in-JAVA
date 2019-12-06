@@ -1,0 +1,29 @@
+Hey Nemanja,
+As we have talked I am sending first part of your knowledge acquirement/transfer. 
+It is vital, that you master GIT, because you will use this tool everywhere. 
+
+I know there a lot of tools that don’t require knowledge of Terminal/bash use, but I would like you to use this. Terminal is always available, but GUIs are not always available. And if you can master the Terminal “version” of GIT, you will not have problems with others. 
+
+- GIT:
+                - https://rogerdudler.github.io/git-guide/
+                - https://learngitbranching.js.org/
+                - https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+                - Commands: init, pull, fetch, commit, branch, checkout, reset, rebase, push, clone, add, status, log, diff, stash, stash pop
+                - What is Fork, Branch, Repo, Issue, Pull Request
+This is the first part. I think 3-4 days are enough to master this, so we would make a call on Monday (I am not here o Friday). 
+Please follow the tutorials and if you have problems, please contact me (I am here until Friday). 
+
+Other tasks should be put on hold for the time being. 
+
+Enjoy,
+Leo =) 
+
+Leonardo Gaube
+QA Engineer
+
+ 
+ T: +386 81 60 5965  M: +386 40 425 934
+ E: leonardo.gaube@comtrade.com
+ A:  Letališka 29b, Ljubljana, Slovenia
+WEB | LIn | TW | FB | YT | IG
+
